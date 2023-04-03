@@ -1,2 +1,2 @@
 # poly-stc-assets
-Assets of poly bridge
+Assets of poly PolyBridge

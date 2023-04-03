@@ -1,0 +1,10 @@
+[package]
+name = "Poly-STC-Assets"
+version = "2.0.1"
+
+[addresses]
+StarcoinFramework = "0x1"
+PolyBridge = "0xe52552637c5897a2d499fbf08216f73e"
+
+[dependencies]
+StarcoinFramework = { git = "https://github.com/starcoinorg/starcoin-framework.git", rev = "c101e26a45401671ae04b5571387661f0fc3656f" }
