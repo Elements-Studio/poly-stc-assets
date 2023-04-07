@@ -7,4 +7,4 @@ StarcoinFramework = "0x1"
 PolyBridge = "0xe52552637c5897a2d499fbf08216f73e"
 
 [dependencies]
-StarcoinFramework = { git = "https://github.com/starcoinorg/starcoin-framework.git", rev = "7805a6743de2e476c4c912b7f87d22e1b8dcc8ee" }
+StarcoinFramework = { git = "https://github.com/starcoinorg/starcoin-framework.git", rev = "b0a1ca20ac963d23a85da921b049e49ba557f199" }
